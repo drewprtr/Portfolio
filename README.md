@@ -7,7 +7,7 @@
     <ul>
         <li>CompTIA Security+ CE: <a href="https://github.com/drewprtr/Portfolio/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf">View Certificate</a></li>
         <li>Fortinet - FCA : <a href="https://github.com/drewprtr/Portfolio/blob/main/FCA.pdf">View Certificate</a></li>
-        <li>Fortinat - NSE3 : <a href="https://github.com/drewprtr/Portfolio/blob/main/NSE_3_Certificate.pdf">View Certificate</a></li>
+        <li>Fortinet - NSE3 : <a href="https://github.com/drewprtr/Portfolio/blob/main/NSE_3_Certificate.pdf">View Certificate</a></li>
         <li>In Progress - HTB CPTS: <a href="https://github.com/drewprtr/Portfolio/blob/main/HTB%20Academy%20Student%20Transcript.pdf">View Progress</a></li>
     </ul>
     
